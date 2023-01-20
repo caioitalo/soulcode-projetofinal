@@ -18,6 +18,9 @@ O objetivo deste projeto é obter insights sobre o mercado de combustíveis no B
 
 # Dashboard - Visão Geral
 ![screenshot](https://github.com/caioitalo/soulcode-projetofinal/blob/main/Dashboard.jpg)
+<p align="center">
+  <img src="[your_relative_path_here](https://github.com/caioitalo/soulcode-projetofinal/blob/main/Dashboard.jpg)" width="350" title="hover text">
+</p>
 
 # Equipe
 > [Augusto Tonelli](https://github.com/augustoTonelli)
