@@ -8,7 +8,7 @@ Realizar o processo de Extração, transformação e carregamento e análises do
 
 # Workflow
 <p align="center">
-  <img src="https://github.com/caioitalo/soulcode-projetofinal/blob/main/workflow.jpg" width="700" title="workflow">
+  <img src="https://github.com/caioitalo/soulcode-projetofinal/blob/main/workflow.jpg" width="800" title="workflow">
 </p>
 
 
@@ -21,16 +21,12 @@ O objetivo deste projeto é obter insights sobre o mercado de combustíveis no B
 
 # Dashboard - Visão Geral
 <p align="center">
-  <img src="https://github.com/caioitalo/soulcode-projetofinal/blob/main/Dashboard.jpg" width="700" title="dashboard">
+  <img src="https://github.com/caioitalo/soulcode-projetofinal/blob/main/Dashboard.jpg" width="800" title="dashboard">
 </p>
 
 # Equipe
-> [Augusto Tonelli](https://github.com/augustoTonelli)
-> 
-> [Caio Ítalo](https://github.com/caioitalo)
-> 
-> [Érica Marçal](https://github.com/erica-elom)
-> 
-> [Nayara Bernardo](https://github.com/nayyarabernardo)
-> 
-> [Luan Sagara](https://github.com/LuanSagara)
+- [Augusto Tonelli](https://github.com/augustoTonelli)
+- [Caio Ítalo](https://github.com/caioitalo)
+- [Érica Marçal](https://github.com/erica-elom)
+- [Nayara Bernardo](https://github.com/nayyarabernardo)
+- [Luan Sagara](https://github.com/LuanSagara)
