@@ -23,7 +23,7 @@ O objetivo deste projeto é obter insights sobre o mercado de combustíveis no B
 
 # Dashboard - Visão Geral
 <p align="center">
-  <img src="https://github.com/caioitalo/soulcode-projetofinal/blob/main/Dashboard.jpg" width="800" title="dashboard">
+  <img src="https://github.com/caioitalo/soulcode-projetofinal/blob/main/Dashboard.png" width="800" title="dashboard">
 </p>
 
 O dashboard foi construído utilizando-se o Google Looker Studio e esse é o [link](https://datastudio.google.com/reporting/a48904e7-3eb9-42db-8ad9-c107c1cd9fc0/page/p_awr8nxr51c) de acesso.
