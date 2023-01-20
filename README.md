@@ -21,7 +21,11 @@ O objetivo deste projeto é obter insights sobre o mercado de combustíveis no B
 
 # Equipe
 > [Augusto Tonelli](https://github.com/augustoTonelli)
+> 
 > [Caio Ítalo](https://github.com/caioitalo)
-> [Érica Marçal]()
+> 
+> [Érica Marçal](https://github.com/erica-elom)
+> 
 > [Nayara Bernardo](https://github.com/nayyarabernardo)
+> 
 > [Luan Sagara](https://github.com/LuanSagara)
