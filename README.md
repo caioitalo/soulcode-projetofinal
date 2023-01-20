@@ -8,7 +8,7 @@ Realizar o processo de Extração, transformação e carregamento e análises do
 
 # Workflow
 <p align="center">
-  <img src="https://github.com/caioitalo/soulcode-projetofinal/blob/main/workflow.jpg" width="350" title="hover text">
+  <img src="https://github.com/caioitalo/soulcode-projetofinal/blob/main/workflow.jpg" width="700" title="workflow">
 </p>
 
 
@@ -20,9 +20,8 @@ O objetivo deste projeto é obter insights sobre o mercado de combustíveis no B
 3. nas importações e exportações.
 
 # Dashboard - Visão Geral
-![screenshot](https://github.com/caioitalo/soulcode-projetofinal/blob/main/Dashboard.jpg)
 <p align="center">
-  <img src="[your_relative_path_here](https://github.com/caioitalo/soulcode-projetofinal/blob/main/Dashboard.jpg)" width="350" title="hover text">
+  <img src="https://github.com/caioitalo/soulcode-projetofinal/blob/main/Dashboard.jpg" width="700" title="dashboard">
 </p>
 
 # Equipe
