@@ -5,6 +5,7 @@ O tema dado à equipe foi o de **Combustíveis** e os Datasets obtidos foram ext
 
 # Escopo 
 Realizar o processo de Extração, transformação e carregamento e análises dos dados utilizando Linguagem Python e bibliotecas, Cloud, Banco de dados e o Looker Studio.
+
 Caso tenha interesse em acessar o código do processo de ETL, esse é o [link](https://github.com/caioitalo/soulcode-projetofinal/blob/main/Trab_Final_Consolidado.ipynb). 
 
 E este é o [link](https://github.com/caioitalo/soulcode-projetofinal/blob/main/Documentacao%20-%20Combustiveis.pdf) caso tenha interesse em ler a documentação com uma explicação mais aprofundada, com as queries realizadas, de forma bem sucinta e objetiva.
